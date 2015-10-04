@@ -47,3 +47,12 @@ print x[...]
 print bool(Ellipsis)
 print bool(TestEllipsis)
 
+#ToDO
+# numbers.Number
+# Plain integers
+# numbers.Integral
+# Long integers
+# Booleans
+# numbers.Real(float)
+#numbers.Complex
+

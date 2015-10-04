@@ -1,13 +1,7 @@
 __author__ = 'veradocs-web'
 
 
-appendlist=[1,2,3]
-list=[4,5,6]
-extendlist=[1,2,3]
-appendlist.append(list)
-print appendlist
-extendlist.extend(list)
-print extendlist
+
 
 
 def compare(item1, item2):
@@ -29,6 +23,7 @@ def compare_object(item1, item2):
         return 1
     else:
         return 0
+
 
 
 list=[5,4,2,6,1,3]
