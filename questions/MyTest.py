@@ -19,3 +19,4 @@ for testcase in range(int(testcases)):
 
 str='34 334 223 2323 23 '
 str.strip()
+
